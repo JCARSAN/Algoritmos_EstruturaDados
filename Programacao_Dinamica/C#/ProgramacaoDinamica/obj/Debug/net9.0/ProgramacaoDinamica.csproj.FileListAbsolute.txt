@@ -1,0 +1,15 @@
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/bin/Debug/net9.0/ProgramacaoDinamica
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/bin/Debug/net9.0/ProgramacaoDinamica.deps.json
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/bin/Debug/net9.0/ProgramacaoDinamica.runtimeconfig.json
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/bin/Debug/net9.0/ProgramacaoDinamica.dll
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/bin/Debug/net9.0/ProgramacaoDinamica.pdb
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/obj/Debug/net9.0/ProgramacaoDinamica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/obj/Debug/net9.0/ProgramacaoDinamica.AssemblyInfoInputs.cache
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/obj/Debug/net9.0/ProgramacaoDinamica.AssemblyInfo.cs
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/obj/Debug/net9.0/ProgramacaoDinamica.csproj.CoreCompileInputs.cache
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/obj/Debug/net9.0/ProgramacaoDinamica.sourcelink.json
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/obj/Debug/net9.0/ProgramacaoDinamica.dll
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/obj/Debug/net9.0/refint/ProgramacaoDinamica.dll
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/obj/Debug/net9.0/ProgramacaoDinamica.pdb
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/obj/Debug/net9.0/ProgramacaoDinamica.genruntimeconfig.cache
+/Users/ingridlimp/Desktop/Programação/Algoritmos_EstruturaDados/Programacao_Dinamica/C#/ProgramacaoDinamica/obj/Debug/net9.0/ref/ProgramacaoDinamica.dll
